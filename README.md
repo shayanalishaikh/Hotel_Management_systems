@@ -3,7 +3,7 @@
 ### body of the projects 
 **bold**
 *Italic*
-***bold***
+
 1. first phase
 2. second phase
 3. third phase
